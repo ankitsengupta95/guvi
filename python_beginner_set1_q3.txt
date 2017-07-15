@@ -1,0 +1,6 @@
+a=raw_input()
+a=a.upper()
+if a in ('A','E','I','O','U'):
+	print "Vowel"
+else:
+	print "Consonant"
